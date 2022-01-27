@@ -1,0 +1,4 @@
+O nome das variaveis não pode iniciar com números 
+
+Ao dar o nome a um pacote normalmente é nome da empresa.nomedoprojeto.nomedoarquivo
+No java string é uma classe 
