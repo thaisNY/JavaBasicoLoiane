@@ -1,0 +1,16 @@
+Vantagens
+
+Reuso de código
+Descreve o mundo real
+Facilita a manuntenção do código
+
+Classe -> Descrição de um grupo de objetos
+Nome da classe
+Conjunto de atributos(descrição)
+Conjunto de métodos(comportamento)
+O objeto é a instancia de uma classe
+Método é o comportamento de uma dada classe
+
+Herança ->Permite a reutilização da estrutura e do comportamento de uma classe
+Polimorfismo ->Habilidade das variáveis terem mais de um tipo (ex animais emetim som mas de forma diferente)
+Pacotes -> É uma forma de organizar classes 
